@@ -45,10 +45,10 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 * Which one seems to perform best? How do you know it performs best?
-The Model 2 performs better in the Recall category. The Recall category os important becauase it shows the 
+The Model 2 performs better in the Recall category. The Recall category is important becauase it shows better results for risky loans (1s)
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
 Model 2 is better in predicting risky loans (1s)
 
 * If you do not recommend any of the models, please justify your reasoning.
-Model 2 is preferred for predicting risky loans 
+    Model 2 is preferred for predicting risky loans 
 
